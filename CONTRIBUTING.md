@@ -6,11 +6,6 @@ the GitHub issues tracking system prior to any code development to coordinate
 with the maintainers early in the process. Coordinating up front helps to avoid
 frustration later on.
 
-<!-- Please do ...
-**TODO: add any specific non-functional requirements,
-        e.g., test, coding guidelines, etc. here.**
--->
-
 Your contribution must be licensed under the Apache-2.0 license, the license
 used by this project.
 
